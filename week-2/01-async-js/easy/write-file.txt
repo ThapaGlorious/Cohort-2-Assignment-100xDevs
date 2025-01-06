@@ -1,0 +1,1 @@
+Hi this is the text that has been overwritten by the help of fs module.
