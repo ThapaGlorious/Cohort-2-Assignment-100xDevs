@@ -1,1 +1,3 @@
-Solutions to the Cohort 2 Assignment by Harkirat (100xDevs)
+Solutions to the Cohort 2 Assignment 
+
+Link to the cohort : https://100xdevs.com/
